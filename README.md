@@ -35,15 +35,16 @@ For web scraping, <b>Selenium</b> and <b>Beautiful Soup</b> were used. The data 
 
 <h5>b. Simple analysis </h5>
 Different plots were created, eg. <br>
-- Pie Chart
-- Bar chart (horizontal and vertical)
-- Scatter matrix
-- Scatter plot
-- KDE plot
-- Heatmap
-- Boxplot
-- Line graph
-<br>
+<li>Pie Chart</li>
+<li>Bar chart (horizontal and vertical)</li>
+<li>Scatter matrix</li>
+<li>Scatter plot</li>
+<li>KDE plot</li>
+<li>Heatmap</li>
+<li>Boxplot</li>
+<li>Line graph</li>
+
+
 Different tables were generated using different conditions, eg. average victory and defeat time for each champion. <b>groupby</b> and <b>apply</b> were mainly involved.
 
 <h5>c. Machine Learning</h5>
